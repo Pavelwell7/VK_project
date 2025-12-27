@@ -34,8 +34,10 @@
 
 Для сокращённой VK ссылки:
 
-<img width="1175" height="67" alt="image" src="https://github.com/user-attachments/assets/7e6ed938-cf3f-4535-8451-c76a0f16fc0a" />
+<img width="1156" height="67" alt="image" src="https://github.com/user-attachments/assets/6327d0a5-e3e7-41c3-bdd4-320f98b31916" />
+
 
 
 Код написан в учебных целях — это урок в курсе по Python и веб-разработке на сайте [Devman](https://dvmn.org).
+
 
