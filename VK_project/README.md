@@ -29,10 +29,13 @@
 
 Для обычной ссылки:
 
-![img.png](img.png)
+<img width="1226" height="73" alt="image" src="https://github.com/user-attachments/assets/08e255e7-a401-4e60-bde4-f2f6eb495ba1" />
+
 
 Для сокращённой VK ссылки:
 
-![img_1.png](img_1.png)
+<img width="1175" height="67" alt="image" src="https://github.com/user-attachments/assets/7e6ed938-cf3f-4535-8451-c76a0f16fc0a" />
+
 
 Код написан в учебных целях — это урок в курсе по Python и веб-разработке на сайте [Devman](https://dvmn.org).
+
